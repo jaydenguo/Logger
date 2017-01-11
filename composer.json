@@ -1,0 +1,8 @@
+{
+    "name":         "jaydenguo/logger",
+    "description":  "我的日志类",
+    "keywords":     ["php", "logger", "log"],
+    "homepage":     "https://www.jueneng.org",
+    "type":         "library",
+    "license":      "MIT"
+}
